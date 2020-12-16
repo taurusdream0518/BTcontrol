@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mode_home"
+        android:title="Home Control" />
+
+    <item android:id="@+id/mode_car"
+        android:title="Car Control" />
+
+</menu>
